@@ -7,7 +7,7 @@ mv ~/.vim ~/.vim.bak
 mv ~/.vimrc ~/.vimrc.bak
 
 # clone my config
-git clone https:#github.com/fengcms/fungleo-vim-config
+git clone https://github.com/fengcms/fungleo-vim-config
 
 # copy my config to your home directory
 cd fungleo-vim-config
