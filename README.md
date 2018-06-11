@@ -1,7 +1,7 @@
 # FungLeo Vim Config
 ## Install
 
-```#
+```shell
 // bak your old config
 mv ~/.vim ~/.vim.bak
 mv ~/.vimrc ~/.vimrc.bak
