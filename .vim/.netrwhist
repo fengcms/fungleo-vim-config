@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/fungleo/Sites/KangRuiDe/user-auth-h5/config'
+let g:netrw_dirhist_2='/Users/fungleo/Sites/KangRuiDe/user-auth-h5/src/config'
+let g:netrw_dirhist_3='/Users/fungleo/Sites/LianTong/ShangHu/meroperate-front/src/router'
+let g:netrw_dirhist_4='/Volumes/BANQ/LOST.DIR'
+let g:netrw_dirhist_5='/Users/fungleo/Sites/ChromePlugIn/down-music-app'
+let g:netrw_dirhist_6='/Users/fungleo/Sites/CsxBank/get-customer-h5-front/src/style'
+let g:netrw_dirhist_7='/Users/fungleo/Sites/MyWork/DaiZhiGe/fe/src/router'
+let g:netrw_dirhist_8='/Users/fungleo/Sites/MyWork/DaiZhiGe/daizhige-h5/src/router'
+let g:netrw_dirhist_9='/Users/fungleo/Sites/MyWork/DaiZhiGe/daizhige-h5/src/style/coms'
